@@ -208,7 +208,7 @@ aside .inner h1:nth-of-type(2) {
 }
 
 .sec_2 .inner > div div figure {
-    background: linear-gradient(to bottom, yellow, #000);
+    background: linear-gradient(to bottom, #000, #000);
     overflow: hidden;
     margin-bottom: 5%;
 }
